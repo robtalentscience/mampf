@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ResultsVC.tableView(_:numberOfRowsInSection:):ResultsVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ResultsVC.viewDidLoad():ResultsVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ResultsVC.viewDidLoad():ResultsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rob">
+            </PersistentString>
+            <PersistentString
+               value = "snapshot.val()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
