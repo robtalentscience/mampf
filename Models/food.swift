@@ -9,6 +9,7 @@
 import Foundation
 import Firebase
 
+var budget: String = ""
 
 class Eatery {
     
@@ -22,4 +23,8 @@ class Eatery {
     
     // All data is pulled into this to display
     var eateryData = [Eatery]()
+}
+
+struct Data {
+    var bug: String = "a"
 }

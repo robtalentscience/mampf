@@ -11,6 +11,8 @@
 		ED1146A01FB8C88A001615C7 /* FoodTypeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED11469F1FB8C88A001615C7 /* FoodTypeVC.swift */; };
 		ED1146A31FB8CB67001615C7 /* food.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1146A21FB8CB67001615C7 /* food.swift */; };
 		ED8E48181FB8C30F00BB33FB /* roundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8E48171FB8C30F00BB33FB /* roundButton.swift */; };
+		EDD0C5401FB9BDC7009D5B7A /* BudgetVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD0C53F1FB9BDC7009D5B7A /* BudgetVC.swift */; };
+		EDD0C5421FB9DBC8009D5B7A /* BudgetSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD0C5411FB9DBC8009D5B7A /* BudgetSelectVC.swift */; };
 		FC0313FB1FACCA9C004B4D6B /* ResultsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0313FA1FACCA9C004B4D6B /* ResultsVC.swift */; };
 		FC8CB3171F99F27400E29DE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC8CB3161F99F27400E29DE7 /* AppDelegate.swift */; };
 		FC8CB3191F99F27400E29DE7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC8CB3181F99F27400E29DE7 /* ViewController.swift */; };
@@ -27,6 +29,8 @@
 		ED11469F1FB8C88A001615C7 /* FoodTypeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTypeVC.swift; sourceTree = "<group>"; };
 		ED1146A21FB8CB67001615C7 /* food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food.swift; sourceTree = "<group>"; };
 		ED8E48171FB8C30F00BB33FB /* roundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roundButton.swift; sourceTree = "<group>"; };
+		EDD0C53F1FB9BDC7009D5B7A /* BudgetVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetVC.swift; sourceTree = "<group>"; };
+		EDD0C5411FB9DBC8009D5B7A /* BudgetSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetSelectVC.swift; sourceTree = "<group>"; };
 		FC0313FA1FACCA9C004B4D6B /* ResultsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsVC.swift; sourceTree = "<group>"; };
 		FC8CB3131F99F27400E29DE7 /* Mampf.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Mampf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC8CB3161F99F27400E29DE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +112,8 @@
 				FC8CB3221F99F27400E29DE7 /* Info.plist */,
 				FC8CB3281F99F3DA00E29DE7 /* GoogleService-Info.plist */,
 				ED11469F1FB8C88A001615C7 /* FoodTypeVC.swift */,
+				EDD0C53F1FB9BDC7009D5B7A /* BudgetVC.swift */,
+				EDD0C5411FB9DBC8009D5B7A /* BudgetSelectVC.swift */,
 			);
 			name = Mampf;
 			path = /Users/robmurray/Desktop/Mampf;
@@ -251,6 +257,8 @@
 			files = (
 				ED8E48181FB8C30F00BB33FB /* roundButton.swift in Sources */,
 				FC8CB3191F99F27400E29DE7 /* ViewController.swift in Sources */,
+				EDD0C5401FB9BDC7009D5B7A /* BudgetVC.swift in Sources */,
+				EDD0C5421FB9DBC8009D5B7A /* BudgetSelectVC.swift in Sources */,
 				FC0313FB1FACCA9C004B4D6B /* ResultsVC.swift in Sources */,
 				FC8CB3171F99F27400E29DE7 /* AppDelegate.swift in Sources */,
 				ED1146A01FB8C88A001615C7 /* FoodTypeVC.swift in Sources */,
